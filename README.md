@@ -14,13 +14,13 @@ L’association ne dispose pour l’instant que d’un site très simple. Les je
 
 Ils souhaitent donc développer un site web en PHP / Symfony pour mieux s’adapter à leur public. 
 
-Max, le Product Owner, a participé à une réunion avec le client et vous a fait parvenir ses notes.
+Max, le Product Owner, a participé à une réunion avec le client et vous a fait parvenir ses notes. https://course.oc-static.com/projects/876_DA_PHP_Sf_V2/P9/Notes+RDV+Avenirs.pdf
 
 
-Il a aussi réalisé un premier Product Backlog avant de partir précipitamment en congé maladie à cause d’un accident… 
+Il a aussi réalisé un premier Product Backlog avant de partir précipitamment en congé maladie à cause d’un accident… https://openclassrooms.notion.site/29c8a021a5ec4b059213e15b85e8d243?v=6237ecbc2c3b468db3e9e1578f61a0df 
 
 
-L’UX Designer, Chayma, a réalisé en parallèle les premiers wireframes du site web.
+L’UX Designer, Chayma, a réalisé en parallèle les premiers wireframes du site web. https://course.oc-static.com/projects/DA+Android/P10/Wireframes+Avenirs.png 
 
 Hélas, certaines User Stories (US) du Product Backlog ne sont vraiment pas claires…
 
