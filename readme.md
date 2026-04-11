@@ -86,7 +86,7 @@ Sécurité & simplicité d’utilisation
 Disponible dans le dépôt
 
 9. Installation (si projet Symfony futur)
-(Tu peux garder cette section pour la suite du parcours)
+(garder cette section pour la suite du parcours)
 bash
 git clone https://github.com/votre-repo/avenirs.git
 cd avenirs
